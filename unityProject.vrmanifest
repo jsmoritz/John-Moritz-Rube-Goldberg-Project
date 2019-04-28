@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.steamvrproject1.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\projects\\John Moritz Rube Goldberg Project\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "steamVR Project 1 [Testing]"
+        }
+      }
+    }
+  ]
+}
